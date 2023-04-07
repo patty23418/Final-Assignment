@@ -1,0 +1,201 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "3772c46b-18ab-4971-bd8a-8be4eb2cd9e4",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "# Data Science Tools and Ecosystem"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e8d2533c-df40-409d-b34f-2d2fbc5b4c0b",
+   "metadata": {},
+   "source": [
+    "### In this notebook, Data Science Tools and Ecosystem are summarized."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6cc31424-2b0d-4fc5-8dda-a05a8af60bfc",
+   "metadata": {},
+   "source": [
+    "__Objectives:__"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "723aa3b1-3e74-4f08-9bd8-a643db4c1268",
+   "metadata": {},
+   "source": [
+    "List popular languages for Data Science"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "73039564-ee4e-41d9-91bf-084e544e04ea",
+   "metadata": {},
+   "source": [
+    "- R\n",
+    "- SQL\n",
+    "- Python"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "42f68e57-c9d2-45cf-8ba9-a247d732300d",
+   "metadata": {},
+   "source": [
+    "Some of the popular languages that Data Scientists use are:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "75059241-ad7c-45cf-a859-fa5cdb9e242c",
+   "metadata": {},
+   "source": [
+    "1. Python\n",
+    "2. R\n",
+    "3. SQL"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "58d754ed-99ae-4182-9fc9-c89c04b71b16",
+   "metadata": {},
+   "source": [
+    "Some of the commonly used libraries used by Data Scientists include:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d29dc937-a79d-4e2a-8d7d-9133ce9de2ba",
+   "metadata": {},
+   "source": [
+    "1. Pandas\n",
+    "2. NumPy\n",
+    "3. Matplotlib"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "62c3d7f2-e804-477c-98d9-41429d37bfac",
+   "metadata": {},
+   "source": [
+    "| Data Science Tools |\n",
+    "| --- |\n",
+    "| Python |\n",
+    "| --- |\n",
+    "| KubeFlow |\n",
+    "| --- |\n",
+    "| MySQL |"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b38aa03e-64d1-4fc4-8adb-a45d076b10a8",
+   "metadata": {},
+   "source": [
+    "### Below are a few examples of evaluating arithmetic expressions in Python"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "9d7baa63-f682-4d51-8aa2-5376aefd8ebf",
+   "metadata": {},
+   "source": [
+    "his a simple arithmetic expression to mutiply then add integers"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "e1730551-d5a8-41af-909a-2ad9b61e8695",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "17"
+      ]
+     },
+     "execution_count": 4,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "(3*4)+5"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "281aefee-0937-43f3-b0ac-4ca2cf07924b",
+   "metadata": {},
+   "source": [
+    "This will convert 200 minutes to hours by diving by 60"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "5b6a9b65-1b22-4e7f-b0fe-61de035dc22b",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "3"
+      ]
+     },
+     "execution_count": 7,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "200//60"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d0798b4b-c128-4f8f-9b88-2ccf7b99481f",
+   "metadata": {},
+   "source": [
+    "## Author"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "44cf1489-f517-4ae4-bbb1-2f0d921075c3",
+   "metadata": {},
+   "source": [
+    "Gavin"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
